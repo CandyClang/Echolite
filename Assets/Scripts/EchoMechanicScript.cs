@@ -12,6 +12,7 @@ public class EchoMechanicScript : MonoBehaviour
             Debug.Log("Spawn Echo");
 
             //Spawn echo particles
+
         }
     }
 }
